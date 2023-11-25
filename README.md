@@ -1,5 +1,3 @@
-"SUCOM: Guaranteed Supercore Maximization for Highly Robust Point Cloud Registration"
-
 Copyright by Lei Sun (leisunjames@gmail.com)
 
 This is the source code of SUCOM in Matlab for academic use only.
